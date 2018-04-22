@@ -1,0 +1,2 @@
+# Warning-System
+Wireless Sensor Networks are exponentially gaining impact on a wide range of applicactons in various domains including but not limited to health-care, control networks and industrial production monitoring. For this project you will have to create a Warning System that will alert other user, when someone falls down. This Warning System can be used by people who are hiking, parents in hospital and elders or toddlers at home.
